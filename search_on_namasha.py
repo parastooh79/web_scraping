@@ -1,4 +1,5 @@
-#!/usr/bin/python3
+#!/usr/bin/python3                                    
+# here is a she-bang for linux OS
 
 # Here we search in the site using requests and print the results of the first page.
 

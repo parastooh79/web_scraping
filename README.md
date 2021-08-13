@@ -4,7 +4,7 @@ In this repo , I using requets and BeautifulSoup for scrape some data from namas
 
 I using this libraries:
 
-Requests library
-Bs4 library 
-Pymongo library
-Re library
+Requests library , 
+Bs4 library , 
+Pymongo library , 
+Re library 
